@@ -1554,7 +1554,7 @@
     (uuid ff3a80cb-81df-4cce-800e-43aecccde38a)
   )
 
-  (text "Pixy2 CAM" (at 128.27 19.05 0)
+  (text "Pixy2 CAM" (at 128.27 17.78 0)
     (effects (font (size 3.27 3.27)) (justify left bottom))
     (uuid 5b9bd9d1-56a5-4b73-b7e2-ddb09192b697)
   )
